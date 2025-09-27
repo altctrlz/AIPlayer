@@ -55,14 +55,14 @@
 ## Download / Скачать
 
 ### English:
-Latest version is available on [GitHub releases](https://github.com/altctrlz/aip/releases/latest)
+Latest version is available on [GitHub releases](https://github.com/altctrlz/AIP/releases/latest)
 
 ### Русский:
-Последняя версия доступна в [GitHub releases]((https://github.com/altctrlz/aip/releases/latest)
+Последняя версия доступна в [GitHub releases]((https://github.com/altctrlz/AIP/releases/latest)
 
 ## Build Instructions / Инструкции по сборке
 
 ### English:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/altctrlz/aip.git
+   git clone https://github.com/altctrlz/AIP.git

@@ -55,14 +55,14 @@
 ## Download / Скачать
 
 ### English:
-Latest version is available on [GitHub releases](https://github.com/altctrlz/AIP/releases/latest)
+Latest version is available on [GitHub releases]((https://github.com/altctrlz/AIPlayer/releases))
 
 ### Русский:
-Последняя версия доступна в [GitHub releases]((https://github.com/altctrlz/AIP/releases/latest)
+Последняя версия доступна в [GitHub releases]((https://github.com/altctrlz/AIPlayer/releases)
 
 ## Build Instructions / Инструкции по сборке
 
 ### English:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/altctrlz/AIP.git
+   git clone https://github.com/altctrlz/AIPlayer.git

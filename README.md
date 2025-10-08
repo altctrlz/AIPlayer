@@ -33,21 +33,6 @@
 ## Modifications by altctrlz / Изменения от altctrlz
 
 
-## Screenshots / Скриншоты
-
-<div align="center">
-  <div>
-    <img src="fastlane/metadata/android/en-US/images/phoneScreenshos/1.png" width="24%" />
-    <img src="fastlane/metadata/android/en-US/images/phoneScreenshos/2.png" width="24%" />
-    <img src="fastlane/metadata/android/en-US/images/phoneScreenshts/3.png" width="24%" />
-    <img src="fastlane/metadata/android/en-US/images/phoneScreenshts/4.png" width="24%" />
-    <img src="fastlane/metadata/android/en-US/images/phoneScreensots/5.png" width="24%" />
-    <img src="fastlane/metadata/android/en-US/images/phoneScreensots/6.png" width="24%" />
-    <img src="fastlane/metadata/android/en-US/images/phoneScreensots/7.png" width="24%" />
-    <img src="fastlane/metadata/android/en-US/images/phoneScreenhots/8.png" width="24%" />
-  </div>
-</div>
-
 ## Download / Скачать
 
 ### English:

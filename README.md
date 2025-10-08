@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="fastlane/metadata/android/en-US/images/icon-f.png" width="200px" />
-
   # AIP Music Player
 
   ### Music player for Android / Музыкальный плеер для Android
@@ -30,9 +27,6 @@
 - Поддержка синхронизированных текстов песен через [LRCLIB](https://lrclib.net/)
 - Чистый и интуитивно понятный интерфейс
 
-## Modifications by altctrlz / Изменения от altctrlz
-
-
 ## Download / Скачать
 
 ### English:
@@ -41,8 +35,6 @@ Latest version is available on [GitHub releases]((https://github.com/altctrlz/AI
 ### Русский:
 Последняя версия доступна в [GitHub releases]((https://github.com/altctrlz/AIPlayer/releases)
 
-
-### English:
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    git clone https://github.com/altctrlz/AIPlayer.git

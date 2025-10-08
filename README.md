@@ -5,9 +5,6 @@
 
   ### Music player for Android / Музыкальный плеер для Android
   
-  *Based on [Lotus](https://github.com/dn0ne/lotus) by dn0ne* |
-  *Основано на [Lotus](https://github.com/dn0ne/lotus) от dn0ne*
-  
 </div>
 
 ## About / О проекте
@@ -15,7 +12,7 @@
 **AIP Music Player** - Бесплатный музыкальный плеер для Android!
 
 **Developer / Разработчик**: altctrlz  
-**Version / Версия**: 1.0  
+**Version / Версия**: 1.1  
 **Package / Пакет**: com.altctrlz.aip
 
 ## Features / Возможности
@@ -60,7 +57,6 @@ Latest version is available on [GitHub releases]((https://github.com/altctrlz/AI
 ### Русский:
 Последняя версия доступна в [GitHub releases]((https://github.com/altctrlz/AIPlayer/releases)
 
-## Build Instructions / Инструкции по сборке
 
 ### English:
 1. **Clone the repository**:

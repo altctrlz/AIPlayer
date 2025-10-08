@@ -13,7 +13,6 @@
 
 **Developer / Разработчик**: altctrlz  
 **Version / Версия**: 1.1  
-**Package / Пакет**: com.altctrlz.aip
 
 ## Features / Возможности
 
